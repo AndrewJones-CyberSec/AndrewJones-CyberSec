@@ -25,7 +25,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-[linkedin]: https://linkedin.com/in/YOUR-LINKEDIN
-[github]: https://github.com/YOUR-GITHUB-HANDLE
+[linkedin]: https://www.linkedin.com/in/andrew-jones-689811344/
+[github]: https://github.com/Fatherdeath566-unreal
 
 ---
