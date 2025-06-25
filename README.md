@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Andrew!<br/>
+<a href="https://github.com/YOUR-GITHUB-HANDLE">Cybersecurity Enthusiast</a> | <a href="https://linkedin.com/in/YOUR-LINKEDIN">Aspiring Security Analyst</a>
+</h1>
 
-<!--
-**Fatherdeath566-unreal/Fatherdeath566-unreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛡️ Cybersecurity Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+### 📜 Certifications
+
+- **Google Cybersecurity Certificate (Coursera)** – *In Progress*  
+
+---
+
+
+### 🤝 Connect With Me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+[linkedin]: https://linkedin.com/in/YOUR-LINKEDIN
+[github]: https://github.com/YOUR-GITHUB-HANDLE
+
+---
