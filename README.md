@@ -7,7 +7,7 @@
 ### 🛡️ Cybersecurity Projects
 
 - **📋 Security Audit Report – Botium Toys**  
-  [View the full audit report](https://github.com/Fatherdeath566-unreal/Security-Audit-Botium-Toys)  
+  [View the full audit report](https://github.com/Fatherdeath566-unreal/Security-Audit-Report)  
   Includes findings and recommendations based on PCI DSS, SOC, and GDPR standards.
 
 
